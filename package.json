@@ -1,0 +1,24 @@
+{
+  "name": "express_mysql",
+  "version": "1.0.0",
+  "description": "Express_mysql",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebuenesy2/express_mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebuenesy2/express_mysql/issues"
+  },
+  "homepage": "https://github.com/ebuenesy2/express_mysql#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "yarn": "^1.22.19"
+  }
+}
