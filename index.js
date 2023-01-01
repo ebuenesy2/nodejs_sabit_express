@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: true }));
 //get işlemi
 // http://localhost:3001/
 app.get('/', function (req, res) {
-    res.send('Get Yapıldı Anasayfa');
+    res.send('Sabit - Express Get Yapıldı Anasayfa');
     console.log('Get Yapıldı - Anasayfa');
 })
 
